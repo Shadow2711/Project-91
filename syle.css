@@ -1,0 +1,30 @@
+body{
+    background-image: url("backgroundimage.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color:powderblue;
+}
+.line{
+    height: 4px;
+    background-color: white;
+    width: 70px;
+    margin: 8px auto;
+}
+.Login_div{
+    background-color: white;
+    float: none;
+    padding: 10px;
+    border-radius: 15px;
+}
+#input_player1_name, #input_player2_name{
+    display: inline-block;
+}
+#output{
+    background-color: bisque;
+    border-radius: 20px;
+    border-top: solid aliceblue;
+    padding: 10px;
+    float: none;
+}
